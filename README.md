@@ -1,1 +1,1 @@
-# Weather-App
+This project involves creating a straightforward weather application using Python. The app leverages the OpenWeather API to fetch real-time weather data, demonstrating basic principles of Python programming and API integration. The application allows users to input a city name and receive current weather conditions, including temperature, humidity, and weather description. This project serves as an introduction to handling API requests and processing JSON data in Python.
